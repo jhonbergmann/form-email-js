@@ -11,6 +11,7 @@ Os modelos de e-mail podem conter opcionalmente variáveis ​​dinâmicas em q
 
 Além disso, você pode adicionar anexos facilmente, exigir validação CAPTCHA, alternar entre os serviços de e-mail sem fazer alterações no código, revisar o histórico da solicitação de e-mail e muito mais.
 <br/>
+
 - [Acesse aqui](https://www.emailjs.com/docs/introduction/how-does-emailjs-work/)
 
 <p align="center">
@@ -29,25 +30,28 @@ Além disso, você pode adicionar anexos facilmente, exigir validação CAPTCHA,
 </p>
 
 ## 🌐 Tecnologias Usadas
+
 Foram usadas essas tecnologias:
 
 - [React](https://pt-br.reactjs.org/)
 - [Yarn](https://yarnpkg.com/)
-<br/>-<br/>
+  <br/>-<br/>
 - [EmailJS-com](https://www.emailjs.com/)
 - [Lottie](https://www.npmjs.com/package/react-lottie)
 - [Modal](https://www.npmjs.com/package/react-modal)
 
-*Foram usados outros Frameworks no projeto, mas esses são os principais.*
+_Foram usados outros Frameworks no projeto, mas esses são os principais._
 
-## ***</>*** Como usar o código?
+## **_</>_** Como usar o código?
+
 1. Instale o **Yarn** em seu computador
 1. Instale o **NodeJs** na versão >= 12.0
 1. Clone este repositório `git clone https://github.com/JhonatanBergmann/using-form.emailJS-com`
 
 ### 🌐 Web
+
 1. Acesse o diretório e dê o comando `yarn install`
-1. Acesse a pasta *web* e dê o comando `yarn start`
+1. Acesse a pasta _web_ e dê o comando `yarn start`
 1. Acesse em seu navegador a seguinte url `http://localhost:3000`
 
 ## 📝 Licença
