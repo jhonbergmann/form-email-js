@@ -1,0 +1,94 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 2%;
+}
+
+.app-container .form-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40vw;
+  height: 90vh;
+  background: #000;
+  border-bottom-left-radius: 30px;
+  border-top-left-radius: 30px;
+}
+
+.contact-modal {
+  width: 50vw;
+  height: 20vh;
+}
+
+.contact-button {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+
+.contact-modal h1 {
+  color: #FFF;
+  text-align: center;
+}
+
+.contact-modal p {
+  color: #FFF;
+  font-size: 20px;
+  text-align: center;
+}
+
+.app-container .contact-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #FFF;
+}
+
+.app-container .contact-form label {
+  width: 80%;
+  text-align: left;
+  margin: 2%;
+}
+
+.app-container .contact-form .inputs {
+  padding: 1em 16px 1em 1em;
+  height: 3vh;
+  width: 20vw;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}
+
+.app-container .contact-form textarea {
+  padding: 1em 16px 1em 1em;
+  height: 20vh;
+  width: 20vw;
+  max-height: 300px;
+  max-width: 20vw;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}
+
+.app-container .button {
+  width: 25vw;
+  height: 8vh;
+  border-radius: 5px;
+  margin-top: 5%;
+  color: #FFF;
+  background: linear-gradient(90deg, #5de8dd, #3a82f3 100%);
+  border: none;
+  outline: none;
+  text-align: center;
+}
+
+.app-container .lottie-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40vw;
+  height: 90vh;
+  background: linear-gradient(90deg, #5de8dd, #3a82f3 100%);
+  border-bottom-right-radius: 30px;
+  border-top-right-radius: 30px;
+}
