@@ -49,3 +49,13 @@ Foram usadas essas tecnologias:
 1. Acesse o diretório e dê o comando `yarn install`
 1. Acesse a pasta *web* e dê o comando `yarn start`
 1. Acesse em seu navegador a seguinte url `http://localhost:3000`
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+<p align="center">
+ Feito com 💜 by Jhonatan Bergmann
+</p>
